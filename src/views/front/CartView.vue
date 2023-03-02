@@ -1,3 +1,3 @@
 <template>
-    購物車
+    購物車頁面
 </template>
